@@ -1,4 +1,6 @@
-# spring-oauth2
+# spring-oauth2-app
+
+
 
 This is sample git application.
 
