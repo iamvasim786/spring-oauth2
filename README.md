@@ -1,3 +1,4 @@
 # spring-oauth2
 
-This is sample git app.
+This is sample git application.
+
